@@ -6,7 +6,7 @@
 Saya Azzahra SIti Hadjar NIM 2100901 mengerjakan soal Latihan 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## -- Desain Program --
-Program berbasis OOP dengan onsep Multi-level Inheritance. 
+Program berbasis OOP dengan menerapkan konsep Multi-level Inheritance. 
 
 Terdapat 3 Kelas yaitu kelas Human, Sivitas Akademik, dan Mahasiswa
 
@@ -21,7 +21,7 @@ Terdapat 3 Kelas yaitu kelas Human, Sivitas Akademik, dan Mahasiswa
 - kelas Sivitas ini menjadi derived class 1/Intermediary Class, yaitu child dari kelas Human dan parent dari kelas Mahasiswa 
 
 #### 3. Kelas Mahasiswa 
-- memiliki private atribut betipe data string untuk menyimpan data nim,fakultas, dan prodi. 
+- memiliki private atribut betipe data string untuk menyimpan data nim, fakultas, dan prodi. 
 - memiliki public method kontruktor, setter, dan getter untuk nik, nama, dan jenis kelamin. Setter untuk menginisialisasi atribut sedangkan getter untuk mereturn nilai atribut pada kelas
 - kelas Mahasiswa ini menjadi derived class 2, yaitu child dari kelas Sivitas
 
@@ -32,7 +32,7 @@ Terdapat 3 Kelas yaitu kelas Human, Sivitas Akademik, dan Mahasiswa
 - Instansiasi objek mahasiswa
 - inisialisasi objek mahasiswa dengan menggunakan method setter yang ada padal kelas mahasiswa dan kelas parent nya (sivitas dan)
 - masukan objek ke dalam list mahasiswa
-- programakan menampilkan isi list mahasiswa
+- menampilkan isi list mahasiswa
 
 ## -- Dokumentasi saat Program  di Jalankan --
 ### Program dengan Java
