@@ -7,8 +7,8 @@ Saya Azzahra SIti Hadjar NIM 2100901 mengerjakan soal Latihan 2 dalam mata kulia
 Program berbasis OOP dengan menerapkan konsep Multi-level Inheritance. 
 
 Terdapat 3 Kelas yaitu kelas Human, Sivitas Akademik, dan Mahasiswa
+![lat 2](https://user-images.githubusercontent.com/100898963/221148215-27d4e076-ec7c-44d8-82c6-59dffa16c1bf.jpg)
 
-![lat 2](https://user-images.githubusercontent.com/100898963/221147952-e5f88334-2d3d-4bef-9dea-06918c39912c.png)
 
 #### 1. Kelas Human 
 - memiliki private atribut betipe data string untuk menyimpan data nik, nama dan char untuk menyimpan data jenis kelamin. 
