@@ -8,6 +8,8 @@ Program berbasis OOP dengan menerapkan konsep Multi-level Inheritance.
 
 Terdapat 3 Kelas yaitu kelas Human, Sivitas Akademik, dan Mahasiswa
 
+![lat 2](https://user-images.githubusercontent.com/100898963/221147952-e5f88334-2d3d-4bef-9dea-06918c39912c.png)
+
 #### 1. Kelas Human 
 - memiliki private atribut betipe data string untuk menyimpan data nik, nama dan char untuk menyimpan data jenis kelamin. 
 - memiliki public method kontruktor, setter, dan getter untuk nik, nama, dan jenis kelamin. Setter untuk menginisialisasi atribut sedangkan getter untuk mereturn nilai atribut pada kelas
